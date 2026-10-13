@@ -3,3 +3,5 @@ data/
 .DS_Store
 .ipynb_checkpoints/
 cours1-comptage_mots.pdf
+cours_hadoop.md
+cours_spark.md

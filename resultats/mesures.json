@@ -1,0 +1,119 @@
+[
+ {
+  "jeu": "petit",
+  "taille (Mo)": 0.000595,
+  "méthode": "Python simple",
+  "statut": "OK",
+  "temps (s)": 0.04928987502353266,
+  "pic mémoire (Mo)": 15.187968
+ },
+ {
+  "jeu": "petit",
+  "taille (Mo)": 0.000595,
+  "méthode": "Pseudo-MapReduce",
+  "statut": "OK",
+  "temps (s)": 0.0255861250043381,
+  "pic mémoire (Mo)": 15.302656
+ },
+ {
+  "jeu": "petit",
+  "taille (Mo)": 0.000595,
+  "méthode": "Hadoop MapReduce",
+  "statut": "OK",
+  "temps (s)": 14.95008362500812,
+  "chargement HDFS (s)": 1.29768887499813,
+  "tâches map": 1
+ },
+ {
+  "jeu": "moyen",
+  "taille (Mo)": 5.95,
+  "méthode": "Python simple",
+  "statut": "OK",
+  "temps (s)": 0.14765929098939523,
+  "pic mémoire (Mo)": 86.523904
+ },
+ {
+  "jeu": "moyen",
+  "taille (Mo)": 5.95,
+  "méthode": "Pseudo-MapReduce",
+  "statut": "OK",
+  "temps (s)": 0.41357012500520796,
+  "pic mémoire (Mo)": 151.126016
+ },
+ {
+  "jeu": "moyen",
+  "taille (Mo)": 5.95,
+  "méthode": "Hadoop MapReduce",
+  "statut": "OK",
+  "temps (s)": 14.533109708980191,
+  "chargement HDFS (s)": 0.8531189159839414,
+  "tâches map": 1
+ },
+ {
+  "jeu": "gros",
+  "taille (Mo)": 2380.0,
+  "méthode": "Python simple",
+  "statut": "OK",
+  "temps (s)": 192.111958124995,
+  "pic mémoire (Mo)": 4176.658432
+ },
+ {
+  "jeu": "gros",
+  "taille (Mo)": 2380.0,
+  "méthode": "Pseudo-MapReduce",
+  "statut": "ERREUR",
+  "temps (s)": 1396.7037700420187,
+  "pic mémoire (Mo)": 6475.661312
+ },
+ {
+  "jeu": "gros",
+  "taille (Mo)": 2380.0,
+  "méthode": "Hadoop MapReduce",
+  "statut": "OK",
+  "temps (s)": 83.55311691699899,
+  "chargement HDFS (s)": 13.454101792012807,
+  "tâches map": 18
+ },
+ {
+  "jeu": "gros",
+  "taille (Mo)": 2380.0,
+  "méthode": "PySpark RDD",
+  "statut": "OK",
+  "temps (s)": 97.15298695900128
+ },
+ {
+  "jeu": "gros",
+  "taille (Mo)": 2380.0,
+  "méthode": "PySpark DataFrame",
+  "statut": "OK",
+  "temps (s)": 40.40547324999352
+ },
+ {
+  "jeu": "petit",
+  "taille (Mo)": 0.000595,
+  "méthode": "PySpark RDD",
+  "statut": "OK",
+  "temps (s)": 6.683615792018827
+ },
+ {
+  "jeu": "petit",
+  "taille (Mo)": 0.000595,
+  "méthode": "PySpark DataFrame",
+  "statut": "OK",
+  "temps (s)": 6.252930624992587
+ },
+ {
+  "jeu": "moyen",
+  "taille (Mo)": 5.95,
+  "méthode": "PySpark RDD",
+  "statut": "OK",
+  "temps (s)": 7.041839499986963
+ },
+ {
+  "jeu": "moyen",
+  "taille (Mo)": 5.95,
+  "méthode": "PySpark DataFrame",
+  "statut": "OK",
+  "temps (s)": 7.664708333002636
+ }
+]
