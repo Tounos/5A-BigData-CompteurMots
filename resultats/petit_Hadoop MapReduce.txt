@@ -1,0 +1,15 @@
+arbre	8
+chat	28
+chien	13
+ciel	5
+fleur	8
+jardin	2
+livre	5
+lune	3
+maison	6
+mer	3
+montagne	6
+oiseau	3
+route	3
+soleil	6
+voiture	1

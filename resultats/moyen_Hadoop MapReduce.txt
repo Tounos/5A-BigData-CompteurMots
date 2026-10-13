@@ -1,0 +1,15 @@
+arbre	80000
+chat	280000
+chien	130000
+ciel	50000
+fleur	80000
+jardin	20000
+livre	50000
+lune	30000
+maison	60000
+mer	30000
+montagne	60000
+oiseau	30000
+route	30000
+soleil	60000
+voiture	10000
