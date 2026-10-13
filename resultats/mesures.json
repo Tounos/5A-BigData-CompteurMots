@@ -75,20 +75,6 @@
   "tâches map": 18
  },
  {
-  "jeu": "gros",
-  "taille (Mo)": 2380.0,
-  "méthode": "PySpark RDD",
-  "statut": "OK",
-  "temps (s)": 97.15298695900128
- },
- {
-  "jeu": "gros",
-  "taille (Mo)": 2380.0,
-  "méthode": "PySpark DataFrame",
-  "statut": "OK",
-  "temps (s)": 40.40547324999352
- },
- {
   "jeu": "petit",
   "taille (Mo)": 0.000595,
   "méthode": "PySpark RDD",
@@ -115,5 +101,19 @@
   "méthode": "PySpark DataFrame",
   "statut": "OK",
   "temps (s)": 7.664708333002636
+ },
+ {
+  "jeu": "gros",
+  "taille (Mo)": 2380.0,
+  "méthode": "PySpark RDD",
+  "statut": "OK",
+  "temps (s)": 106.29622387501877
+ },
+ {
+  "jeu": "gros",
+  "taille (Mo)": 2380.0,
+  "méthode": "PySpark DataFrame",
+  "statut": "OK",
+  "temps (s)": 48.842010707972804
  }
 ]
